@@ -1,4 +1,3 @@
-![header](https://user-images.githubusercontent.com/125761885/226228796-b6ab2efc-83e7-4b74-bcfb-1dede37e954c.png)
 
 # Hi, I'm Bruno Eduardo
 
